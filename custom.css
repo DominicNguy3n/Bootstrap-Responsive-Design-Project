@@ -1,0 +1,52 @@
+
+header {
+    background-image: url(Valorant.jpg); 
+    background-size: cover;
+    background-position: center;
+}
+
+#Jett{
+	background: #b2d8d8;
+	background-image: url(Knives.gif); 
+    background-position: right;
+    background-repeat: no-repeat;
+    text-align: left;
+
+
+
+
+  
+}
+
+#Yoru{
+	background: #006FB9;
+	background-image: url(Yoru.gif); 
+    background-position: right;
+    background-repeat: no-repeat;
+    text-align: left;
+}
+
+#Phoenix{
+	background: #FAC000;
+	background-image: url(Pho.gif); 
+    background-position: right;
+    background-repeat: no-repeat;
+    text-align: left;
+}
+
+#Raze{
+	background: #E27602;
+	background-image: url(Raze.gif); 
+    background-position: right;
+    background-repeat: no-repeat;
+    text-align: left;
+}
+
+#Reyna{
+	background: #FF00FF;
+	background-image: url(Reyna.gif); 
+    background-position: right;
+    background-repeat: no-repeat;
+    text-align: left;
+}
+
